@@ -1,8 +1,8 @@
 Steps to run the project in a browser:
 =====================================
 
-1. Host the project using a web server
---------------------------------------
+* [Host the project using a web server]
+
 Windows: (Pre-req: iisexpress)
 ..............................
 	CMD_PROMPT#> "C:\Program Files (x86)\IIS Express\iisexpress.exe" /path:<root>\jsProjectTemplate /port:21213
