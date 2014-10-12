@@ -1,14 +1,19 @@
-Steps to run the project in browser:
+Steps to run the project in a browser:
 =====================================
 
 1. Host the project using a web server
 --------------------------------------
-i. Windows: (Pre-req: iisexpress)
+Windows: (Pre-req: iisexpress)
+..............................
 	CMD_PROMPT#> "C:\Program Files (x86)\IIS Express\iisexpress.exe" /path:<root>\jsProjectTemplate /port:21213
-ii. Mac: (pre-req: python)
+
+Mac: (pre-req: python)
+......................
 	<root>\jsProjectTemplate#>python -m SimpleHTTPServer 21213
 
-2. Open any browser and hit url http://localhost:21213 to run the project.
+2. Run the project
+------------------
+Open any browser and hit url http://localhost:21213
 
 
 Notes:
